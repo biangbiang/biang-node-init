@@ -1,0 +1,20 @@
+{
+  "name": "biang-node-init",
+  "version": "1.0.0",
+  "description": "biang node init",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node run/dev.js",
+    "test": "node run/test.js",
+    "prod": "node run/prod.js"
+  },
+  "keywords": [
+    "biang",
+    "node",
+    "init"
+  ],
+  "author": "Biangbiang",
+  "license": "MIT",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+conf/config.js
+conf/config.dev.js
+conf/config.test.js
+*.swp
+npm-debug.log
